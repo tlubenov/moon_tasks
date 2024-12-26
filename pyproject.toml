@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "moon-tasks"
+version = "2024.12"
+description = ""
+authors = ["Todor Lubenov"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
